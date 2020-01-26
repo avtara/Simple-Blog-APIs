@@ -1,5 +1,4 @@
 # Welcome to Simple APIs Blogs 👋
-[![Version](https://img.shields.io/npm/v/Simple APIs Blogs.svg)](https://www.npmjs.com/package/Simple APIs Blogs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Twitter: avtarakhrisna](https://img.shields.io/twitter/follow/avtarakhrisna.svg?style=social)](https://twitter.com/avtarakhrisna)
 
